@@ -209,6 +209,7 @@ body {
 
 
 /* Responsive Breakpoint */
+/* Desktop kecil */
 @media (max-width: 1024px) {
     .menu {
         order: inherit;
@@ -234,6 +235,7 @@ body {
     }
 }
 
+/* Tablet */
 @media (max-width: 768px) {
     .menu {
         order: -1;
@@ -266,6 +268,7 @@ body {
     }
 }
 
+/* Mobile */
 @media (max-width: 600px) {
     body {
         margin: 15px;
